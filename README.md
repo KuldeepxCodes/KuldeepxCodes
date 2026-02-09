@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hi, I’m Kuldeep Bhardwaj, a passionate Data Science learner exploring the world of data.<br>I work primarily with Python and enjoy using libraries like NumPy, Pandas, Matplotlib, and Scikit-learn.<br>I have hands-on experience with PostgreSQL, Git, and GitHub for data projects and version control.<br>My interests include data analysis, machine learning, and data visualization.<br>I believe in continuous learning and building practical skills one project at a time 🚀
+Hi, I’m Kuldeep Bhardwaj, a passionate Data Science learner exploring the world of data.<br>I work primarily with Python and enjoy using libraries like NumPy, Pandas, Matplotlib, and Scikit-learn.<br>I have hands-on experience with PostgreSQL, Git, and GitHub for data projects and version control.<br>My interests include data analysis, machine learning, and data visualization.<br>I believe in continuous learning and building practical skills one project at a time 🚀.
 
 
 ## 🌐 Socials:
